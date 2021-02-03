@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.container {
+  margin: 0px 40px;
+}
+
+.file-remaning-space {
+  flex: 1 1 auto;
+}
+
+form.normal-form {
+  margin: 10px;
+}
+
+.controls-container {
+  width: 100%;
+  padding: 5%;
+}
+
+.controls-container > * {
+  width: 100%;
+}
+
+mat-grid-tile {
+  padding: 10px;
+}
+
+mat-radio-group mat-radio-button {
+  margin-left: 5px;
+}
+
+.select-margin {
+  margin-top: 10px;
+}
+
+.button-row button {
+  margin: 5px;
+}
+
+.block-div {
+  margin: 10px;
+}
+
+/*# sourceMappingURL=styles.css.map */
